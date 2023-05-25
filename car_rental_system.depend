@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1684986169 source:d:\kichu\newfolder\car_rental_system\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	"rent.h"
+
+1684984543 d:\kichu\newfolder\car_rental_system\rent.h
+	<iostream>
+	<string>
+
+1684987314 source:d:\kichu\newfolder\car_rental_system\functions.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	"rent.h"
+
